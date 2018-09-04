@@ -32,7 +32,7 @@
 
 
 ### Common Q&A
-* What technologies we use? _Mostly Java and Spring stack. https://github.com/mmahmoodictbd/how-to-start-as-developer/blob/master/documentation/tech-stack.asciidoc[For details]._
+* What technologies we use? _Mostly Java and Spring stack. https://github.com/ChumbokIT/how-to-start-as-developer/blob/master/documentation/tech-stack.asciidoc[For details]._
 * Do we follow any specific code formatting / conventions? _Yes, https://github.com/ChumbokIT/dev-styleguide[Follow
 dev style guide]_.
 

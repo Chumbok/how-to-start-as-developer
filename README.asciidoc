@@ -1,0 +1,45 @@
+# How to start as developer
+###### _Chumbok IT guideline for new (and/or forgetful) developers._
+
+
+### What software / tools need to be installed as developer?
+#### Development tools
+* http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html[Java Development Kit (JDK) 1.8]
+* https://maven.apache.org/[Apache Maven 3.5+]
+* https://git-scm.com/downloads[Git]
+* https://www.docker.com/[Docker], https://docs.docker.com/machine/[Docker Machine].
+* https://code.visualstudio.com/[VSCode]
+
+#### Preferred IDE
+* https://www.jetbrains.com/idea/download/[IntelliJ].
+* In case you don't like IntelliJ, use Eclipse.
+* IDE Plugins: FindBugs, SonarLint, PMD
+
+#### Preferred OS
+* Linux based OS, preferred Ubuntu.
+* In case of Windows, install GitBash.
+
+#### Other tools
+* Collaboration:
+** Chat: Skype
+** Issues Plannings: Jira
+** Information board: Google Doc
+** Video call: Google Hangout
+* CI: Jenkins (Planned)
+* Provision Server: Ansible
+* Deployments: Jenkins
+* SCM: Bitbucket
+
+
+### Common Q&A
+* What technologies we use? _Mostly Java and Spring stack. https://github.com/mmahmoodictbd/how-to-start-as-developer/blob/master/documentation/tech-stack.asciidoc[For details]._
+* Do we follow any specific code formatting / conventions? _Yes, https://github.com/ChumbokIT/dev-styleguide[Follow
+dev style guide]_.
+
+
+### Learn and Shine
+https://github.com/mmahmoodictbd/how-to-start-as-developer/blob/master/documentation/tutorials.asciidoc[We have
+listed some great tutorial from internet]. Check this out!
+
+
+

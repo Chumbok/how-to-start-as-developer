@@ -1,0 +1,9 @@
+# Tech Stack
+
+#### Technologies we use:
+* https://spring.io/projects/spring-boot[Spring Boot]
+* https://projects.spring.io/spring-cloud/[Spring Cloud]
+* https://projects.spring.io/spring-data-jpa/[Spring Data JPA]
+** http://hibernate.org/orm/[Hibernate]
+** MySQL 5.x
+

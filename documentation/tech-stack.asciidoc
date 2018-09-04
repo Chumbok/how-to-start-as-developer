@@ -9,3 +9,4 @@
 * Code Coverage: http://eclemma.org/jacoco[JaCoCo]
 * Date Migration Tool: http://www.liquibase.org/[Liquibase]
 * Tests: http://junit.org/[JUnit], https://github.com/mockito/mockito[Mockito]
+* AngularJS 1.6.x and 6

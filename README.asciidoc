@@ -12,7 +12,7 @@
 
 #### Preferred IDE
 * https://www.jetbrains.com/idea/download/[IntelliJ].
-* In case you don't like IntelliJ, use Eclipse.
+* In case you don't like IntelliJ, use https://www.eclipse.org/[Eclipse].
 * IDE Plugins: FindBugs, SonarLint, PMD
 
 #### Preferred OS

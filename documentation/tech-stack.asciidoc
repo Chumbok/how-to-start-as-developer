@@ -6,4 +6,6 @@
 * https://projects.spring.io/spring-data-jpa/[Spring Data JPA]
 ** http://hibernate.org/orm/[Hibernate]
 ** MySQL 5.x
-
+* Code Coverage: http://eclemma.org/jacoco[JaCoCo]
+* Date Migration Tool: http://www.liquibase.org/[Liquibase]
+* Tests: http://junit.org/[JUnit], https://github.com/mockito/mockito[Mockito]

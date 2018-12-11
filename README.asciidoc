@@ -38,7 +38,7 @@ dev style guide]_.
 
 
 ### Learn and Shine
-https://github.com/mmahmoodictbd/how-to-start-as-developer/blob/master/documentation/tutorials.asciidoc[We have
+https://github.com/ChumbokIT/how-to-start-as-developer/blob/master/documentation/tutorials.asciidoc[We have
 listed some great tutorial from internet]. Check this out!
 
 

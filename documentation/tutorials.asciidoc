@@ -1,9 +1,35 @@
 # Tutorials
 
+
+### Basic Java Setup
+* Install JDK
+* Install an IDE https://www.jetbrains.com/idea/download/[IntelliJ Community]
+* Install Git, Git Bash and Maven
+
+
 ### Git
-* https://www.atlassian.com/git/tutorials/
-* http://git-scm.com/docs/gittutorial
-* https://try.github.io/
+* Install Git https://www.atlassian.com/git/tutorials/install-git[tutorial 1], https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/[tutorial 2]
+* https://www.atlassian.com/git/tutorials/[Basic tutorial 1]
+* http://git-scm.com/docs/gittutorial[Basic tutorial 2]
+* https://guides.github.com/activities/hello-world/[What is Github and how it works]
+* https://try.github.io/[More resource on Github]
+
+
+### Maven
+* https://maven.apache.org/install.html[Install Maven]
+* https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html[Maven in 5 minutes]
+* https://www.mkyong.com/maven/how-to-create-a-java-project-with-maven/[Java project with Maven]
+
+
+### Spring Boot
+* https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started-first-application.html[Developing Your First Spring Boot Application]
+* REST Service with Spring Boot https://spring.io/guides/gs/rest-service/[tutorial 1], https://spring.io/guides/tutorials/rest/[tutorial 2]
+* https://www.mkyong.com/spring-boot/spring-rest-hello-world-example/[Spring REST Hello World Example]
+
+
+### REST
+* https://spring.io/understanding/REST[Basic understanding of REST]
+
 
 ### Bangla Resource
 * https://github.com/me-shaon/bangla-programming-resources

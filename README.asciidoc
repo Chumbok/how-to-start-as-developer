@@ -10,14 +10,17 @@
 * https://www.docker.com/[Docker], https://docs.docker.com/machine/[Docker Machine].
 * https://code.visualstudio.com/[VSCode]
 
+
 #### Preferred IDE
 * https://www.jetbrains.com/idea/download/[IntelliJ].
 * In case you don't like IntelliJ, use https://www.eclipse.org/[Eclipse].
 * IDE Plugins: FindBugs, SonarLint, PMD
 
+
 #### Preferred OS
 * Linux based OS, preferred Ubuntu.
 * In case of Windows, install GitBash.
+
 
 #### Other tools
 * Collaboration:
